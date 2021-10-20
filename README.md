@@ -1,3 +1,4 @@
 # Ejercicio de clase
 
-## modificación de prueba para fork
+## Este repositorio fue clonado con el método 1
+
